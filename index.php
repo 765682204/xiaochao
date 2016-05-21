@@ -1,5 +1,5 @@
 <?php
 	echo 'a';
 	
-	echo 'bbb';
+	echo 'bb';
 ?>
